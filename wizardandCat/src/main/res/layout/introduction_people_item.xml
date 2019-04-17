@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:ignore="MissingPrefix">
+    
+    <com.ssomai.android.scalablelayout.ScalableLayout 
+        android:id="@+id/introduction_item_base_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:scale_base_width="338"
+        app:scale_base_height="490"
+        >
+        <ImageView
+            android:id="@+id/introduction_item_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:scale_width="338"
+            app:scale_height="340"
+            app:scale_left="0"
+            app:scale_top="0"/>
+        <TextView 
+            android:id="@+id/introduction_item_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            app:scale_width="338"
+            app:scale_height="60"
+            app:scale_left="0"
+            app:scale_top="360"
+            app:scale_textsize="40"/>
+        
+    </com.ssomai.android.scalablelayout.ScalableLayout>
+    
+
+</LinearLayout>

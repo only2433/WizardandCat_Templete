@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">131416647405622</string>
+    <!-- Pay -->
+    <string name="one_pay">$0.99</string>
+    <string name="all_fake_pay">$49.50</string>
+    <string name="all_pay">$14.99</string>
+    <string name="press_backbutton_again">Touch [Back] button again to close app.</string>
+    <string name="app_name">Wizard and Cat</string>
+    <string name="other_app">Other Little Fox Apps</string>
+    <string name="input_promotion">Enter Promo Code</string>
+    <string name="menu_writer">Credits</string>
+    <string name="inquire_developer">Help</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="promotion_code_title">Promo Code</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">Make Your Selection</string>
+    <string name="menu_star_give">Rate</string>
+    <string name="title_star_give">Rate</string>
+    <string name="title_next_do">Later</string>
+    <!-- Button -->
+    <string name="btn_confirm">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_move">Yes</string>
+    <string name="btn_ignore">No</string>
+    <string name="btn_download_continue">Yes</string>
+    <string name="btn_download_cancel">No</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_later">Later</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_purchase">Purchase</string>
+    <string name="btn_replay">Replay</string>
+    <string name="btn_next_video">Play Next</string>
+    <string name="btn_play_all">Play All</string>
+    <string name="btn_download_now">Download Now</string>
+    <string name="btn_more_story">More Stories</string>
+    <string name="littlefox_home">Little Fox Homepage</string>
+    <string name="parent_confirm">Parent Gate</string>
+    <string name="parent_not_correct_answer">The answer is incorrect.</string>
+    <!-- 네트워크 -->
+    <string name="network_error">You are not connected to the network.Please check your network connection. </string>
+    <string name="network_download_error">Download cannot be completed because you are not connected to the cellular network.</string>
+    <string name="storage_available_error">Download cannot be completed because there isn’t enough storage on your device.</string>
+    <string name="lte_3g_relate_question">Additional charges may apply because you are not connected to WIFI. Do you want to continue?</string>
+    <!-- 프로모션 -->
+    <string name="promotion_not_valid">The code has been expired.</string>
+    <string name="promotion_already_used_error">The code has already been used.</string>
+    <string name="promotion_used_go_download">The code has been applied.</string>
+    <!-- 상품 구입 -->
+    <string name="product_buy_item_warning">The price of this story will not be deducted from the total price if you decide to purchase all stories in the future. \nDo you want to continue?</string>
+    <string name="product_download_one_item_message">You have successfully purchased 1 story. Do you want to download now?</string>
+    <string name="product_download_all_item_message">You have successfully purchased all stories. Do you want to download now?</string>
+
+    <!-- Introduction -->
+    <string name="introduction_text">The king needs a new royal wizard! Tom wants the job, but there\'s one big problem: he\'s terrible at magic. Then Tom meets Cat, who wants to help the kind young wizard. Cat is clever, but can she keep Tom out of the Royal Dungeon?</string>
+    <!-- Intro -->
+    <string name="Intro_text">Skip</string>
+    <!-- Error -->
+    <string name="mac_address_error">The app cannot run because device information is unavailable.  Run the app again after clearing your data.</string>
+    <!-- MESSAGE -->
+    <string name="meesage_is_end">Are you sure you want to close the app?</string>
+    <!-- 구매복원 -->
+    <string name="paid_restore_success">Your purchases have been restored. </string>
+    <string name="paid_restore_fail">You do not have any purchase history. </string>
+    <!-- 루팅기계 방지 -->
+    <string name="root_not_play">The app cannot run on a rooting device.</string>
+    <!-- 앱 버젼 체크 -->
+    <string name="select_update_check">A new version of app is available. Do you want to update now?</string>
+    <string name="force_update_check">We recommend that you use the latest version of app. If not, there may be problems during its use.</string>
+    <!-- 배경음 과 액션 모드 -->
+    <string name="action_story_mode">Action Story Mode</string>
+    <string name="background_music">Background Music</string>
+    <string name="message_kakao_story_install">KakaoStory App is not installed on your device.\nPlease share after installing the app.</string>
+
+</resources>

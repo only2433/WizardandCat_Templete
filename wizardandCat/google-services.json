@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779281957676",
+    "firebase_url": "https://storybook-wizardandcat.firebaseio.com",
+    "project_id": "storybook-wizardandcat",
+    "storage_bucket": "storybook-wizardandcat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779281957676:android:9d3e807c714020ad",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.wizardandcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779281957676-vhggcrunrjki0eskoq23gsmlu83jr6t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMciNbycFG4e6twWb-iHKTxDJG8B2iv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779281957676-vhggcrunrjki0eskoq23gsmlu83jr6t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

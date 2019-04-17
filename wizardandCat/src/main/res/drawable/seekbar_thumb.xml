@@ -1,0 +1,24 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/_thumbRect">
+        <shape
+            android:shape="oval">
+            <size
+                android:height="20dp"
+                android:width="20dp" />
+
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item android:id="@+id/_thumbCircle">
+        <shape android:shape="oval">
+            <size
+                android:height="10dp"
+                android:width="10dp" />
+
+
+            <solid android:color="@color/color_ffe84d" />
+        </shape>
+    </item>
+
+</layer-list>

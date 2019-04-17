@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.only2433:LittlefoxSystemLibrary:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LittlefoxSystemLibrary-1.0.9.aar/cc4aead47358917a3ef929996e4541f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LittlefoxSystemLibrary-1.0.9.aar/cc4aead47358917a3ef929996e4541f8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.only2433/LittlefoxSystemLibrary/1.0.9/dea0fe726de711894cc139c41eeaddec522cca18/LittlefoxSystemLibrary-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

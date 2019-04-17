@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:ignore="MissingPrefix">
+
+    <com.ssomai.android.scalablelayout.ScalableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        app:scale_base_height="1080"
+        app:scale_base_width="1920" >
+
+        <VideoView
+            android:id="@+id/intro_video_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:scale_height="1080"
+            app:scale_left="0"
+            app:scale_top="0"
+            app:scale_width="1920" />
+    </com.ssomai.android.scalablelayout.ScalableLayout>
+
+    <com.ssomai.android.scalablelayout.ScalableLayout
+        android:id="@+id/skip_base_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:scale_base_width="1920"
+        app:scale_base_height="100">
+
+        <ImageView
+            android:id="@+id/skip_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/btn_skip_bg"
+            android:visibility="visible"
+            app:scale_height="100"
+            app:scale_left="1577"
+            app:scale_top="0"
+            app:scale_width="263" />
+
+        <TextView
+            android:id="@+id/skip_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/Intro_text"
+            android:textColor="@color/white"
+            android:visibility="visible"
+            app:scale_height="100"
+            app:scale_left="1577"
+            app:scale_textsize="42"
+            app:scale_top="0"
+            app:scale_width="263" />
+    </com.ssomai.android.scalablelayout.ScalableLayout>
+
+</RelativeLayout>

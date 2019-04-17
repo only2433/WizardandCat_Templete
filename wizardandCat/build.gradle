@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.littlefox.storybook.wizardandcat"
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode 7
+        versionName "1.2.2"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+}
+
+buildscript
+        {
+            ext.support_lib_version ='28.0.0'
+            ext.support_google_play ="12.0.1"
+        }
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'
+
+    implementation "com.android.support:appcompat-v7:$support_lib_version"
+    implementation "com.android.support:support-v4:$support_lib_version"
+    implementation "com.android.support:design:$support_lib_version"
+    implementation "com.android.support:recyclerview-v7:$support_lib_version"
+    implementation 'com.google.code.gson:gson:2.8.2'
+
+    implementation 'com.google.android.gms:play-services-base:16.1.0'
+
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
+    implementation 'com.google.firebase:firebase-analytics:16.4.0'
+    implementation 'com.google.firebase:firebase-core:16.0.8'
+
+    implementation 'com.github.only2433:LittlefoxLogMoniter:1.0.4'
+    implementation 'com.github.only2433:LittlefoxSystemLibrary:1.0.9'
+    implementation 'com.github.only2433:LittlefoxViewLibrary:1.0.14'
+    implementation 'com.github.only2433:StorybookTempleteLibrary:1.0.17'
+    implementation 'com.ssomai:android.scalablelayout:2.1.1'
+    implementation 'com.github.bumptech.glide:glide:4.8.0'
+
+    implementation 'com.facebook.android:facebook-android-sdk:4.4.0'
+
+}
+
+repositories {
+    mavenCentral()
+}
+
+
+apply plugin: 'com.google.gms.google-services'

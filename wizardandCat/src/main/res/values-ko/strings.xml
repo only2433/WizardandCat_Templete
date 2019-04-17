@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard and Cat</string>
+    <string name="other_app">다른 앱 보기</string>
+    <string name="input_promotion">쿠폰 입력</string>
+    <string name="menu_writer">제작자 소개</string>
+    <string name="inquire_developer">개발자에게 문의</string>
+    <string name="restore_purchase">구매 복원</string>
+    <string name="promotion_code_title">쿠폰 입력</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">동화 선택</string>
+    <string name="menu_star_give">별점 주기</string>
+    <string name="title_star_give">별점 주기</string>
+    <string name="title_next_do">다음에 하기</string>
+    <!-- Button -->
+    <string name="btn_confirm">확인</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_move">이동</string>
+    <string name="btn_ignore">무시</string>
+    <string name="btn_download_continue">계속</string>
+    <string name="btn_download_cancel">취소</string>
+    <string name="btn_download">다운로드</string>
+    <string name="btn_later">나중에</string>
+    <string name="btn_try_again">재시도</string>
+    <string name="btn_close">닫기</string>
+    <string name="btn_purchase">구입하기</string>
+    <string name="btn_replay">다시보기</string>
+    <string name="btn_next_video">다음편 보기</string>
+    <string name="btn_play_all">남은편 모두 보기</string>
+    <string name="btn_download_now">지금 다운로드</string>
+    <string name="btn_more_story">다른 동화 더보기</string>
+    <string name="parent_confirm">부모님 확인</string>
+    <string name="parent_not_correct_answer">올바른 답이 아닙니다.</string>
+    <!-- 네트워크 -->
+    <string name="network_error">네트워크에 접속되어 있지 않습니다.네트워크 상태를 확인해 주세요.</string>
+    <string name="network_download_error">네트워크에 연결되지 않아 다운로드 할 수 없습니다.</string>
+    <string name="storage_available_error">기기 내 용량이 부족하여 다운로드를 할 수 없습니다.</string>
+    <string name="lte_3g_relate_question">WIFI에 연결되지 않아 데이터 사용료가 발생할 수 있습니다.다운로드를 계속 진행하시겠습니까?</string>
+    <!-- 프로모션 -->
+    <string name="promotion_not_valid">유효기간이 만료된 쿠폰입니다.</string>
+    <string name="promotion_already_used_error">이미 사용된 쿠폰입니다.</string>
+    <string name="promotion_used_go_download">쿠폰이 적용되었습니다.</string>
+    <!-- 상품 구입 -->
+    <string name="product_buy_item_warning">한편 구입 후, 전체 상품을 구입하더라도 이전에 구입한 금액은 차감되지 않습니다.구입을 계속 진행하시겠습니까?</string>
+    <string name="product_download_one_item_message">한편 상품 결제가 완료되었습니다.동화를 다운로드 받으시겠습니까?</string>
+    <string name="product_download_all_item_message">전체 상품 결제가 완료되었습니다.모든 동화를 다운로드 받으시겠습니까?</string>
+    <!-- Introduction -->
+    <string name="introduction_text">실수투성이 마법사 톰은 어쩌다 궁중 마법사로 선발됩니다. 하루하루 아슬아슬한 궁중 생활을 이어가는 톰은 과연 끔찍한 지하감옥에 갇힐 운명을 피할 수 있을까요?</string>
+    <!-- Intro -->
+    <string name="Intro_text">건너뛰기</string>
+    <!-- Error -->
+    <string name="mac_address_error">기기 정보를 가져오지 못해 앱 실행이 불가능합니다.앱 데이터를 삭제 후 다시 실행하여 주세요.</string>
+    <!-- MESSAGE -->
+    <string name="meesage_is_end">앱을 종료하시겠습니까?</string>
+    <!-- 구매복원 -->
+    <string name="paid_restore_success">구매 내역이 복원되었습니다.</string>
+    <string name="paid_restore_fail">구매 기록이 없습니다.</string>
+    <!-- 루팅기계 방지 -->
+    <string name="root_not_play">루팅된 기기에서는 실행할 수 없습니다.</string>
+    <!-- 앱 버젼 체크 -->
+    <string name="select_update_check">새로운 버전이 출시되었습니다.지금 최신 버전으로 업데이트 하시겠습니까?</string>
+    <string name="force_update_check">중요 업데이트가 있습니다.원활한 앱 이용을 위해서는 반드시 업데이트 해야 합니다.</string>
+    <!-- 배경음 과 액션 모드 -->
+    <string name="action_story_mode">액션 스토리 모드</string>
+    <string name="background_music">배경음</string>
+</resources>

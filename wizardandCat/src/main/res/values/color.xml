@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="light_black">#ff333333</color>
+    <color name="white">#ffffffff</color>
+    <color name="light_blue">#ffddeef8</color>
+    <color name="light_yellow">#fffffa66</color>
+    <color name="player_complete_time">#aaaaa9</color>
+    <color name="lightgray">#ff9ca0ac</color>
+    <color name="percent_color">#22cbd9</color>
+
+    <color name="menu_text_color">#514f59</color>
+    <color name="menu_button_color">#00c2be</color>
+    <color name="promotion_title_color">#451f01</color>
+    <color name="appraisal_next_color">#0a4e61</color>
+    <color name="device_id_color">#b8a631</color>
+    <color name="flexible_button_normal_color">#20cbda</color>
+    <color name="flexible_button_press_color">#00e8e3</color>
+    <color name="parent_confirm_question_color">#ff1885</color>
+    <color name="payment_one_pay_color">#3eaae8</color>
+    <color name="payment_all_dash_pay_color">#eb215e</color>
+    <color name="writer_name_color">#f5ec9f</color>
+    
+    <color name="color_234ed7">#235ed7</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_ffe84d">#ffe84d</color>
+
+</resources>

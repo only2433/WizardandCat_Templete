@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+	tools:ignore="MissingPrefix">
+
+    <VideoView
+        android:id="@+id/intro_video_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" />
+	<com.ssomai.android.scalablelayout.ScalableLayout
+	    android:id="@+id/skip_base_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    app:scale_base_width="1920"
+	    app:scale_base_height="100">
+	    <ImageView 
+	        android:id="@+id/skip_btn"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/btn_skip_bg"
+	        android:scaleType="fitXY"
+	        app:scale_top ="0"
+	        app:scale_left ="1577"
+	        app:scale_width="263"
+	        app:scale_height="100"
+	        android:visibility="visible"/>
+	    <TextView 
+	        android:id="@+id/skip_text"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Intro_text"
+	        android:textColor="@color/white"
+	        android:gravity="center"
+	        app:scale_top ="0"
+	        app:scale_left ="1577"
+	        app:scale_width="263"
+	        app:scale_height="100"
+	        app:scale_textsize="42"
+	        android:visibility="visible"/>
+	</com.ssomai.android.scalablelayout.ScalableLayout>
+	
+
+</RelativeLayout>

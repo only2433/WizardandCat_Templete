@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WizardandCat_Templete.iml" filepath="$PROJECT_DIR$/WizardandCat_Templete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wizardandCat/wizardandCat.iml" filepath="$PROJECT_DIR$/wizardandCat/wizardandCat.iml" />
+    </modules>
+  </component>
+</project>
