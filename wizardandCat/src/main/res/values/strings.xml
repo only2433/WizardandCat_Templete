@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
     <string name="facebook_app_id">131416647405622</string>
     <!-- Pay -->
     <string name="one_pay">$0.99</string>
