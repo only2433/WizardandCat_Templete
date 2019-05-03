@@ -8,8 +8,8 @@ android {
         applicationId "com.littlefox.storybook.wizardandcat"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 7
-        versionName "1.2.2"
+        versionCode 8
+        versionName "1.2.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
@@ -59,7 +59,7 @@ dependencies {
     implementation 'com.github.only2433:LittlefoxLogMoniter:1.0.4'
     implementation 'com.github.only2433:LittlefoxSystemLibrary:1.0.9'
     implementation 'com.github.only2433:LittlefoxViewLibrary:1.0.14'
-    implementation 'com.github.only2433:StorybookTempleteLibrary:1.0.17'
+    implementation 'com.github.only2433:StorybookTempleteLibrary:1.0.18'
     implementation 'com.ssomai:android.scalablelayout:2.1.1'
     implementation 'com.github.bumptech.glide:glide:4.8.0'
 

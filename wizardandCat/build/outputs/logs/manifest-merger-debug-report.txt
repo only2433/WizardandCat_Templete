@@ -31,7 +31,7 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\only340\.gradl
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\4671aa9d0524892c8330d7df0e1b6cbf\AndroidManifest.xml:2:1-22:12
 MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\cc4aead47358917a3ef929996e4541f8\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\4ff7760eca8bd709c14cb752d9811c43\AndroidManifest.xml:2:1-20:12
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:2:1-22:12
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\ed52fb9aae80021ac52d862d6749baf8\AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c53e80d5712ac7c026e4bb35e2a36d86\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ace2423b879d1f19ca6f66a5139be3eb\AndroidManifest.xml:17:1-22:12
@@ -86,14 +86,14 @@ ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\ma
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:7:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:14:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:14:5-80
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:8:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:16:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:16:5-81
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:8:22-78
 uses-permission#com.android.vending.BILLING
@@ -112,8 +112,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\09d995b6bd3361c5064983fb2162cb12\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:23:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:13:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.WAKE_LOCK
@@ -128,8 +128,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\09d995b6bd3361c5064983fb2162cb12\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:25:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:15:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:15:5-68
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:18:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
@@ -142,8 +142,8 @@ ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\ma
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:22:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:12:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:12:5-76
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:22:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -158,8 +158,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\09d995b6bd3361c5064983fb2162cb12\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\12df86cfff9dda2431fd3930942afead\AndroidManifest.xml:24:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:11:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\android_studio_workspace\WizardandCat_Templete\wizardandCat\src\main\AndroidManifest.xml:23:22-76
 application
@@ -392,8 +392,8 @@ MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\
 MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\cc4aead47358917a3ef929996e4541f8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\4ff7760eca8bd709c14cb752d9811c43\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\4ff7760eca8bd709c14cb752d9811c43\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\9c289fccb690d4306d83563acb56295d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\bf82b87efbbed9e31c14e80333c72beb\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\ed52fb9aae80021ac52d862d6749baf8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\ed52fb9aae80021ac52d862d6749baf8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c53e80d5712ac7c026e4bb35e2a36d86\AndroidManifest.xml:6:5-8:41

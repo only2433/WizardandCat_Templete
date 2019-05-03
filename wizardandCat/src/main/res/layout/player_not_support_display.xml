@@ -147,23 +147,23 @@
             app:scale_base_height="75"
             app:scale_base_width="1920" >
 
-            <com.littlefox.library.view.extra.ThumbSeekbar
-                android:id="@+id/seekbar_play"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:maxHeight="5dp"
-                android:orientation="horizontal"
-                android:paddingLeft="0dp"
-                android:paddingRight="0dp"
-                android:progress="90"
-                android:progressDrawable="@drawable/player_seekbar_progress"
-                android:thumb="@drawable/progress_bar_ball"
-                android:thumbOffset="0dip"
-                app:scale_height="75"
-                app:scale_left="0"
-                app:scale_top="0"
-                app:scale_width="1920" />
+			<SeekBar
+				android:id="@+id/seekbar_play"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:maxHeight="5dp"
+				android:orientation="horizontal"
+				android:paddingLeft="0dp"
+				android:paddingRight="0dp"
+				android:progress="90"
+				android:progressDrawable="@drawable/player_seekbar_progress"
+				android:thumb="@drawable/seekbar_thumb"
+				android:thumbOffset="0dip"
+				app:scale_height="62"
+				app:scale_left="0"
+				app:scale_top="0"
+				app:scale_width="1920" />
         </com.ssomai.android.scalablelayout.ScalableLayout>
 
     </RelativeLayout>
